@@ -29,6 +29,7 @@ public class RegisterFrament extends Fragment {
         createToolbar();
 
 
+
     } // Main Method
 
     private void createToolbar() {
