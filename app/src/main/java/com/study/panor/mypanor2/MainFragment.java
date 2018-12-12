@@ -45,8 +45,6 @@ public class MainFragment extends Fragment {
                      .addToBackStack(null).commit();
 
 
-
-
             }
         });
     }
